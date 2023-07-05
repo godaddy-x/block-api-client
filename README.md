@@ -1,2 +1,2 @@
 # block-api-client
-block-api-cli
+block-api-client
